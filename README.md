@@ -1,26 +1,20 @@
-# Hi, I'm Ramnarayan 👋
+# Hi, I'm Ramnarayan Choudhary 👋
 
-I build AI systems, agentic workflows, and full-stack ML products.
+I’m a Master’s student in **Natural Language Processing** at **MBZUAI**, previous grad. from **IIT Bombay**.  
+My work focuses on building reliable, scalable, and production-ready AI systems.
 
 Currently working on:
-- 🤖 Agentic AI systems
-- 🧠 LLM security & evaluation
-- 🌍 Real-world ML products
+- 🤖 Agentic AI systems  
+- 🧠 LLM security, evaluation, and robustness  
+- 🌍 Real-world AI/ML applications  
 
-## 🚀 What I do
-I don't just train models — I build **systems**:
-- LLM pipelines  
-- AI agents  
-- Backend APIs  
-- Real-world deployments  
 
 ## 🔥 Featured Projects
-➡️ See pinned repositories below  
+Explore my pinned repositories below to see my best work in AI systems, research, and applied machine learning.
 
 ## 🛠 Tech Stack
 Python • PyTorch • LangChain • FastAPI • MongoDB • Docker • Git • Linux
 
 ## 📫 Connect
-LinkedIn: your_link  
-Email: your_email
-
+LinkedIn: https://www.linkedin.com/in/ramnarayan-choudhary-482011239/  
+Email: choudharyramnarayan123@gmail.com
