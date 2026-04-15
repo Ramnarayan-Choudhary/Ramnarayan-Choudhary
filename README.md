@@ -9,12 +9,12 @@ Currently working on:
 - 🌍 Real-world AI/ML applications  
 
 
-## 🔥 Featured Projects
+##  Featured Projects
 Explore my pinned repositories below to see my best work in AI systems, research, and applied machine learning.
 
-## 🛠 Tech Stack
+##  Tech Stack
 Python • PyTorch • LangChain • FastAPI • MongoDB • Docker • Git • Linux
 
-## 📫 Connect
+##  Connect
 LinkedIn: https://www.linkedin.com/in/ramnarayan-choudhary-482011239/  
 Email: choudharyramnarayan123@gmail.com
